@@ -1,0 +1,34 @@
+Amazon internships are full-time positions, and interns should expect to work Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day.
+
+Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes. By applying to this position, your application will be considered for all Systems Development Engineer roles at all locations we hire for in the United States including but not limited to: Greater Seattle Area (Seattle, Bellevue, Redmond), Greater Bay Area (San Francisco, Sunnyvale, Santa Clara), Greater DMV (DC, MD, VA), Austin (TX), New York City (NY), Minneapolis (MN).
+
+Are you interested in building and developing unique technology solutions to solve business and customer problems? Do you want to be a part of a fast-paced organization and contribute to one of the most visited sites on the Internet?
+
+If this describes you, consider joining us as an intern! Amazon is looking for system development engineer interns to join one of our many lines of business. Amazon interns have the opportunity to work alongside the industry’s brightest engineers who innovate every day on behalf of our customers. You will be matched to a manager and a mentor. You will have the opportunity to impact the evolution of Amazon technology as well as lead mission-critical projects early in your career. Your work will contribute to solving some of the most complex technical challenges in the company.
+
+Please review the following page for information on Amazon University Talent's recruiting timeline and additional FAQs: https://techengamazon.splashthat.com/.
+
+Key job responsibilities
+As a system development engineer intern, you will/may:
+• Create, improve, or invent tools and/or applications that are a part of a larger system.
+• Build and operate a supportable product or service, and is making significant technical contributions to it
+• Write code that is secure, stable, testable, maintainable and has minimal defects.
+• Understanding of a variety of technologies such as hardware, software, networking, and operating systems, and how they interact with one another
+• Build systems and processes that enable other builders through improved safety, agility, and automation
+• Seek to learn the business context and technologies behind your team’s system implementations.
+
+A day in the life
+Our internship program provides hands-on learning and building experiences for students who are interested in a career in system engineering. In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in fun activities with other interns throughout the summer. No matter the location of your internship, we give you the tools to own your internship and learn in a real-world setting.
+
+- Experience programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby
+- Are 18 years of age or older
+- Work 40 hours/week minimum and commit to 12 week internship maximum
+- Currently working towards a Bachelor’s or Master’s Degree in computer science, computer engineering, systems engineering, electrical engineering, or other equivalent discipline, with an expected conferral date between October 2025 – December 2028.
+
+- Experience with open-source technologies like Linux, Spring or React
+- Experience with distributed computing, programs and systems
+- Experience with Linux/Unix
+- Experience with automating and simplifying team development, test, and operations processes
+- Familiarity with TCP/ICP networking fundamentals and application of IP protocols such as: DNS, DHCP, NTP, SMTP, and SNMP.
+- Strong object-oriented design and coding skills developing on Unix-like operating systems
+- Documentation and problem-solving skills with attention to detail
