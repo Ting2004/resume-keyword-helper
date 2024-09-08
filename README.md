@@ -17,6 +17,10 @@ For fun.
 ### Required package
 - nltk
 
+## TODO
+- [ ] extract from webpage
+- [ ] prettier output
+
 ## Sources
 - unigram_freq downloaded from [English Word Frequency](https://www.kaggle.com/datasets/rtatman/english-word-frequency)
 - demo job_description [Systems Development Engineer Summer Internship – 2025 (US)](https://www.amazon.jobs/en/jobs/2739024/systems-development-engineer-summer-internship-2025-us)
